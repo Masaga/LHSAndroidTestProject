@@ -1,4 +1,4 @@
-package synapticsparks.lhsandroidtestproject;
+package synapticsparks.lhsandroidtestproject.Views.Fragments;
 
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;
