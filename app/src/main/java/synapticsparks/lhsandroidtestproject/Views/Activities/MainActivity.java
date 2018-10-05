@@ -1,4 +1,4 @@
-package synapticsparks.lhsandroidtestproject;
+package synapticsparks.lhsandroidtestproject.Views.Activities;
 
 import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
@@ -17,6 +17,8 @@ import android.view.ViewGroup;
 import android.support.v4.widget.DrawerLayout;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
+
+import synapticsparks.lhsandroidtestproject.Views.Fragments.NavigationDrawerFragment;
 
 
 public class MainActivity extends ActionBarActivity
